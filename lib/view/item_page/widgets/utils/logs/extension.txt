@@ -1,0 +1,136 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.54.1
+Flutter extension: 3.54.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.73.1
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    General
+
+Thu Dec 08 2022 [21:13:39 GMT+0530 (India Standard Time)] Log file started
+[9:13:39 PM] [General] [Info] Searching for SDKs...
+[9:13:39 PM] [General] [Info] Environment PATH:
+[9:13:39 PM] [General] [Info]     C:\Windows\system32
+[9:13:39 PM] [General] [Info]     C:\Windows
+[9:13:39 PM] [General] [Info]     C:\Windows\System32\Wbem
+[9:13:39 PM] [General] [Info]     C:\Windows\System32\WindowsPowerShell\v1.0\
+[9:13:39 PM] [General] [Info]     C:\Windows\System32\OpenSSH\
+[9:13:39 PM] [General] [Info]     C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[9:13:39 PM] [General] [Info]     C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[9:13:39 PM] [General] [Info]     C:\WINDOWS\system32
+[9:13:39 PM] [General] [Info]     C:\WINDOWS
+[9:13:39 PM] [General] [Info]     C:\WINDOWS\System32\Wbem
+[9:13:39 PM] [General] [Info]     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[9:13:39 PM] [General] [Info]     C:\WINDOWS\System32\OpenSSH\
+[9:13:39 PM] [General] [Info]     C:\Program Files\dotnet\
+[9:13:39 PM] [General] [Info]     C:\Program Files\Git\cmd
+[9:13:39 PM] [General] [Info]     C:\Program Files\nodejs\
+[9:13:39 PM] [General] [Info]     C:\Program Files\Java\jdk-19\bin
+[9:13:39 PM] [General] [Info]     C:\Users\amals\AppData\Local\Microsoft\WindowsApps
+[9:13:39 PM] [General] [Info]     C:\Flutter\flutter\bin
+[9:13:39 PM] [General] [Info]     C:\Users\amals\AppData\Local\Programs\Microsoft VS Code\bin
+[9:13:39 PM] [General] [Info]     C:\Users\amals\AppData\Roaming\npm
+[9:13:39 PM] [General] [Info] Took 44ms to search for projects (5 levels)
+[9:13:39 PM] [General] [Info] Took 0ms to filter out excluded projects (0 exclusion rules)
+[9:13:39 PM] [General] [Info] Searching for flutter.bat
+[9:13:39 PM] [General] [Info]     Looking for flutter.bat in:
+[9:13:39 PM] [General] [Info]         C:\Users\amals\flutter-sdk
+[9:13:39 PM] [General] [Info]         C:\Users\amals\flutter-sdk\bin
+[9:13:39 PM] [General] [Info]         /google/flutter
+[9:13:39 PM] [General] [Info]         \google\flutter\bin
+[9:13:39 PM] [General] [Info]         C:\Windows\system32
+[9:13:39 PM] [General] [Info]         C:\Windows\system32\bin
+[9:13:39 PM] [General] [Info]         C:\Windows
+[9:13:39 PM] [General] [Info]         C:\Windows\bin
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\Wbem
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\Wbem\bin
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\OpenSSH\
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\OpenSSH\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[9:13:39 PM] [General] [Info]         C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[9:13:39 PM] [General] [Info]         C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\system32
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\system32\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\Wbem
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\Wbem\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\dotnet\
+[9:13:39 PM] [General] [Info]         C:\Program Files\dotnet\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\Git\cmd
+[9:13:39 PM] [General] [Info]         C:\Program Files\Git\cmd\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\nodejs\
+[9:13:39 PM] [General] [Info]         C:\Program Files\nodejs\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\Java\jdk-19\bin
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Local\Microsoft\WindowsApps
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Local\Microsoft\WindowsApps\bin
+[9:13:39 PM] [General] [Info]         C:\Flutter\flutter\bin
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Local\Programs\Microsoft VS Code\bin
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Roaming\npm
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Roaming\npm\bin
+[9:13:39 PM] [General] [Info]     Found at:
+[9:13:39 PM] [General] [Info]         C:\Flutter\flutter\bin
+[9:13:39 PM] [General] [Info]     Candidate paths to be post-filtered:
+[9:13:39 PM] [General] [Info]         C:\Flutter\flutter
+[9:13:39 PM] [General] [Info]     Found at C:\Flutter\flutter
+[9:13:39 PM] [General] [Info]     Returning SDK path C:\Flutter\flutter for flutter.bat
+[9:13:39 PM] [General] [Info] Searching for dart.exe
+[9:13:39 PM] [General] [Info]     Looking for dart.exe in:
+[9:13:39 PM] [General] [Info]         C:\Windows\system32
+[9:13:39 PM] [General] [Info]         C:\Windows\system32\bin
+[9:13:39 PM] [General] [Info]         C:\Windows
+[9:13:39 PM] [General] [Info]         C:\Windows\bin
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\Wbem
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\Wbem\bin
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\OpenSSH\
+[9:13:39 PM] [General] [Info]         C:\Windows\System32\OpenSSH\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[9:13:39 PM] [General] [Info]         C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[9:13:39 PM] [General] [Info]         C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\system32
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\system32\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\Wbem
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\Wbem\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[9:13:39 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\dotnet\
+[9:13:39 PM] [General] [Info]         C:\Program Files\dotnet\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\Git\cmd
+[9:13:39 PM] [General] [Info]         C:\Program Files\Git\cmd\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\nodejs\
+[9:13:39 PM] [General] [Info]         C:\Program Files\nodejs\bin
+[9:13:39 PM] [General] [Info]         C:\Program Files\Java\jdk-19\bin
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Local\Microsoft\WindowsApps
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Local\Microsoft\WindowsApps\bin
+[9:13:39 PM] [General] [Info]         C:\Flutter\flutter\bin
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Local\Programs\Microsoft VS Code\bin
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Roaming\npm
+[9:13:39 PM] [General] [Info]         C:\Users\amals\AppData\Roaming\npm\bin
+[9:13:39 PM] [General] [Info]         C:\Flutter\flutter\bin\cache\dart-sdk
+[9:13:39 PM] [General] [Info]         C:\Flutter\flutter\bin\cache\dart-sdk\bin
+[9:13:39 PM] [General] [Info]     Found at:
+[9:13:39 PM] [General] [Info]         C:\Flutter\flutter\bin\cache\dart-sdk\bin
+[9:13:39 PM] [General] [Info]     Candidate paths to be post-filtered:
+[9:13:39 PM] [General] [Info]         C:\Flutter\flutter\bin\cache\dart-sdk
+[9:13:39 PM] [General] [Info]     Found at C:\Flutter\flutter\bin\cache\dart-sdk
+[9:13:39 PM] [General] [Info]     Returning SDK path C:\Flutter\flutter\bin\cache\dart-sdk for dart.exe

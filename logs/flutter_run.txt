@@ -1,0 +1,102 @@
+[10:24:36 AM]: Spawning C:\Flutter\flutter\bin\flutter.bat with args ["run","--machine","--start-paused","-d","emulator-5554","--devtools-server-address","http://127.0.0.1:9100/","--target","lib\\main.dart"]
+[10:24:36 AM]: ..  in C:\Users\amals\OneDrive\Desktop\Week 18\e_commerce
+[10:24:36 AM]: ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[10:24:36 AM]: PID: 31472
+[10:24:38 AM]: <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":22580}}]
+[10:24:38 AM]: <== [{"event":"app.start","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","deviceId":"emulator-5554","directory":"C:\\Users\\amals\\OneDrive\\Desktop\\Week 18\\e_commerce","supportsRestart":true,"launchMode":"run"}}]
+[10:24:38 AM]: <== Launching lib\main.dart on sdk gphone x86 in debug mode...
+[10:24:38 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"0","progressId":null,"message":"Running Gradle task 'assembleDebug'...","finished":false}}]
+[10:24:45 AM]: <== Parameter format not correct -
+[10:24:48 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"0","progressId":null,"finished":true}}]
+[10:24:49 AM]: <== √  Built build\app\outputs\flutter-apk\app-debug.apk.
+[10:24:50 AM]: <== D/FlutterGeolocator( 6401): Attaching Geolocator to activity
+[10:24:50 AM]: <== D/FlutterGeolocator( 6401): Creating service.
+[10:24:50 AM]: <== D/FlutterGeolocator( 6401): Binding to location service.
+[10:24:50 AM]: <== D/FlutterGeolocator( 6401): Geolocator foreground service connected
+[10:24:50 AM]: <== D/FlutterGeolocator( 6401): Initializing Geolocator services
+[10:24:50 AM]: <== D/FlutterGeolocator( 6401): Flutter engine connected. Connected engine count 1
+[10:24:51 AM]: <== [{"event":"app.debugPort","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","port":52059,"wsUri":"ws://127.0.0.1:52059/Uz9Dnc33TO8=/ws","baseUri":"file:///data/user/0/com.example.e_commerce/code_cache/e_commerceHRJTLC/e_commerce/"}}]
+[10:24:51 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"1","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[10:24:51 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"1","progressId":null,"finished":true}}]
+[10:24:51 AM]: <== [{"event":"app.started","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541"}}]
+[10:25:06 AM]: <== I/TextInputPlugin( 6401): Composing region changed by the framework. Restarting the input method.
+[10:25:06 AM]: <== W/IInputConnectionWrapper( 6401): getTextBeforeCursor on inactive InputConnection
+[10:25:06 AM]: <== W/IInputConnectionWrapper( 6401): getSelectedText on inactive InputConnection
+[10:25:06 AM]: <== W/IInputConnectionWrapper( 6401): getTextAfterCursor on inactive InputConnection
+[10:25:06 AM]: <== W/IInputConnectionWrapper( 6401): beginBatchEdit on inactive InputConnection
+[10:25:06 AM]: <== W/IInputConnectionWrapper( 6401): getTextBeforeCursor on inactive InputConnection
+[10:25:06 AM]: <== W/IInputConnectionWrapper( 6401): endBatchEdit on inactive InputConnection
+[10:26:51 AM]: ==> [{"id":"1","method":"app.restart","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[10:26:51 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"2","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[10:26:51 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"3","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[10:26:52 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"3","progressId":null,"finished":true}}]
+[10:26:53 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"2","progressId":"hot.reload","finished":true}}]
+[10:26:53 AM]: <== Reloaded 38 of 1360 libraries in 1,175ms (compile: 330 ms, reload: 216 ms, reassemble: 434 ms).
+[10:26:53 AM]: <== [{"id":"1","result":{"code":0,"message":"Reloaded 38 of 1360 libraries"}}]
+[10:27:24 AM]: <== D/CompatibilityChangeReporter( 6401): Compat change id reported: 147798919; UID 10154; state: ENABLED
+[10:27:27 AM]: ==> [{"id":"2","method":"app.restart","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[10:27:27 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"4","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[10:27:27 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"5","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[10:27:27 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"5","progressId":null,"finished":true}}]
+[10:27:28 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"4","progressId":"hot.reload","finished":true}}]
+[10:27:28 AM]: <== Reloaded 1 of 1360 libraries in 708ms (compile: 54 ms, reload: 188 ms, reassemble: 383 ms).
+[10:27:28 AM]: <== [{"id":"2","result":{"code":0,"message":"Reloaded 1 of 1360 libraries"}}]
+[10:28:59 AM]: <== I/TetheringManager( 6401): registerTetheringEventCallback:com.example.e_commerce
+[10:28:59 AM]: <== I/WebViewFactory( 6401): Loading com.google.android.webview version 83.0.4103.106 (code 410410681)
+[10:28:59 AM]: <== I/mple.e_commerc( 6401): The ClassLoaderContext is a special shared library.
+[10:28:59 AM]: <== D/nativeloader( 6401): classloader namespace configured for unbundled product apk. library_path=/product/app/WebViewGoogle/lib/x86:/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86:/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86:/product/lib:/system/product/lib
+[10:28:59 AM]: <== I/mple.e_commerc( 6401): The ClassLoaderContext is a special shared library.
+[10:28:59 AM]: <== D/nativeloader( 6401): classloader namespace configured for unbundled product apk. library_path=/product/app/WebViewGoogle/lib/x86:/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86:/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86:/product/lib:/system/product/lib
+[10:28:59 AM]: <== I/cr_LibraryLoader( 6401): Loaded native library version number "83.0.4103.106"
+[10:28:59 AM]: <== I/cr_CachingUmaRecorder( 6401): Flushed 3 samples from 3 histograms.
+[10:29:00 AM]: <== W/mple.e_commerc( 6401): Accessing hidden method Landroid/media/AudioManager;->getOutputLatency(I)I (greylist, reflection, allowed)
+[10:29:00 AM]: <== W/cr_media( 6401): Requires BLUETOOTH permission
+[10:29:00 AM]: <== D/HostConnection( 6401): HostConnection::get() New Host Connection established 0xed0ccd40, tid 6653
+[10:29:00 AM]: <== D/HostConnection( 6401): HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+[10:29:00 AM]: <== E/chromium( 6401): [ERROR:gl_surface_egl.cc(549)] eglChooseConfig failed with error EGL_SUCCESS
+[10:29:00 AM]: <== D/EGL_emulation( 6401): eglCreateContext: 0xed0dd2e0: maj 2 min 0 rcv 2
+[10:29:00 AM]: <== D/EGL_emulation( 6401): eglMakeCurrent: 0xed0dd2e0: ver 2 0 (tinfo 0xba579350) (first time)
+[10:29:00 AM]: <== E/chromium( 6401): [ERROR:gl_surface_egl.cc(549)] eglChooseConfig failed with error EGL_SUCCESS
+[10:29:00 AM]: <== I/VideoCapabilities( 6401): Unsupported profile 4 for video/mp4v-es
+[10:29:00 AM]: <== W/cr_MediaCodecUtil( 6401): HW encoder for video/avc is not available on this device.
+[10:29:00 AM]: <== D/EGL_emulation( 6401): eglCreateContext: 0xed0efcd0: maj 2 min 0 rcv 2
+[10:29:00 AM]: <== I/OpenGLRenderer( 6401): Davey! duration=810ms; Flags=1, IntendedVsync=302246086774710, Vsync=302246470108028, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=302246470130660, AnimationStart=302246470152460, PerformTraversalsStart=302246471414560, DrawStart=302246802478160, SyncQueued=302246806517660, SyncStart=302246810135860, IssueDrawCommandsStart=302246810190860, SwapBuffers=302246883510060, FrameCompleted=302246901240160, DequeueBufferDuration=255500, QueueBufferDuration=555200, GpuCompleted=0,
+[10:29:10 AM]: <== I/AssistStructure( 6401): Flattened final assist data: 2280 bytes, containing 1 windows, 6 views
+[10:37:17 AM]: ==> [{"id":"3","method":"app.restart","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[10:37:17 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"6","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[10:37:17 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"7","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[10:37:18 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"7","progressId":null,"finished":true}}]
+[10:37:18 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"6","progressId":"hot.reload","finished":true}}]
+[10:37:18 AM]: <== Reloaded 1 of 1360 libraries in 775ms (compile: 42 ms, reload: 255 ms, reassemble: 395 ms).
+[10:37:18 AM]: <== [{"id":"3","result":{"code":0,"message":"Reloaded 1 of 1360 libraries"}}]
+[10:37:23 AM]: ==> [{"id":"4","method":"app.restart","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[10:37:23 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"8","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[10:37:23 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"9","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[10:37:23 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"9","progressId":null,"finished":true}}]
+[10:37:24 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"8","progressId":"hot.reload","finished":true}}]
+[10:37:24 AM]: <== Reloaded 1 of 1360 libraries in 739ms (compile: 45 ms, reload: 236 ms, reassemble: 358 ms).
+[10:37:24 AM]: <== [{"id":"4","result":{"code":0,"message":"Reloaded 1 of 1360 libraries"}}]
+[10:37:51 AM]: ==> [{"id":"5","method":"app.restart","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[10:37:51 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"10","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[10:37:51 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"11","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[10:37:51 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"11","progressId":null,"finished":true}}]
+[10:37:52 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"10","progressId":"hot.reload","finished":true}}]
+[10:37:52 AM]: <== Reloaded 1 of 1360 libraries in 762ms (compile: 38 ms, reload: 270 ms, reassemble: 375 ms).
+[10:37:52 AM]: <== [{"id":"5","result":{"code":0,"message":"Reloaded 1 of 1360 libraries"}}]
+[10:39:05 AM]: ==> [{"id":"6","method":"app.restart","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[10:39:05 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"12","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[10:39:05 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"13","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[10:39:05 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"13","progressId":null,"finished":true}}]
+[10:39:06 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"12","progressId":"hot.reload","finished":true}}]
+[10:39:06 AM]: <== Reloaded 1 of 1360 libraries in 727ms (compile: 36 ms, reload: 229 ms, reassemble: 389 ms).
+[10:39:06 AM]: <== [{"id":"6","result":{"code":0,"message":"Reloaded 1 of 1360 libraries"}}]
+[10:40:40 AM]: ==> [{"id":"7","method":"app.restart","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[10:40:40 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"14","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[10:40:40 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"15","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[10:40:40 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"15","progressId":null,"finished":true}}]
+[10:40:40 AM]: <== [{"event":"app.progress","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541","id":"14","progressId":"hot.reload","finished":true}}]
+[10:40:40 AM]: <== Reloaded 1 of 1360 libraries in 637ms (compile: 32 ms, reload: 253 ms, reassemble: 285 ms).
+[10:40:40 AM]: <== [{"id":"7","result":{"code":0,"message":"Reloaded 1 of 1360 libraries"}}]
+[10:40:43 AM]: ==> [{"id":"8","method":"app.stop","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541"}}]
+[10:40:43 AM]: <== Application finished.
+[10:40:43 AM]: <== [{"event":"app.stop","params":{"appId":"260a46e8-b374-4af6-aadc-5a0f8150c541"}}]

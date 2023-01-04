@@ -1,0 +1,31 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.56.0
+Flutter extension: 3.56.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.74.2
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    FlutterDaemon
+
+Wed Jan 04 2023 [14:18:01 GMT+0530 (India Standard Time)] Log file started
+[2:18:01 PM] [FlutterDaemon] [Info] Spawning C:\Flutter\flutter\bin\flutter.bat with args ["daemon"]
+[2:18:01 PM] [FlutterDaemon] [Info] ..  in C:\Flutter\flutter
+[2:18:01 PM] [FlutterDaemon] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[2:18:01 PM] [FlutterDaemon] [Info]     PID: 33372
+[2:18:01 PM] [FlutterDaemon] [Info] ==> [{"id":"1","method":"emulator.getEmulators"}]
+[2:18:03 PM] [FlutterDaemon] [Info] <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":39764}}]
+[2:18:03 PM] [FlutterDaemon] [Info] ==> [{"id":"2","method":"device.enable"}]
+[2:18:03 PM] [FlutterDaemon] [Info] <== [{"event":"daemon.logMessage","params":{"level":"status","message":"Starting device daemon..."}}]
+[2:18:03 PM] [FlutterDaemon] [Info] <== [{"id":"2"}]
+[2:18:03 PM] [FlutterDaemon] [Info] <== [{"id":"1","result":[{"id":"Pixel_3_API_30","name":"Pixel 3 API 30","category":"mobile","platformType":"android"},{"id":"Pixel_4_API_30","name":"Pixel 4 API 30","category":"mobile","platformType":"android"},{"id":"flutter_emulator","name":"flutter emulator","category":"mobile","platformType":"android"},{"id":"flutter_emulator_2","name":"flutter emulator 2","category":"mobile","platformType":"android"}]}]
+[2:18:07 PM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"windows","name":"Windows","platform":"windows-x64","emulator":false,"category":"desktop","platformType":"windows","ephemeral":false,"emulatorId":null,"sdk":"Microsoft Windows [Version 10.0.22621.963]","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":true,"hardwareRendering":true,"startPaused":true}}}]
+[2:18:07 PM] [FlutterDaemon] [Info] ==> [{"id":"3","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"C:\\Users\\amals\\OneDrive\\Desktop\\Week 18\\e_commerce"}}]
+[2:18:07 PM] [FlutterDaemon] [Info] <== [{"id":"3","result":{"platforms":["linux","macos","windows","ios","android","web"]}}]
+[2:18:08 PM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"chrome","name":"Chrome","platform":"web-javascript","emulator":false,"category":"web","platformType":"web","ephemeral":false,"emulatorId":null,"sdk":"Google Chrome 108.0.5359.125","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":false,"hardwareRendering":true,"startPaused":true}}}]
+[2:18:08 PM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"edge","name":"Edge","platform":"web-javascript","emulator":false,"category":"web","platformType":"web","ephemeral":false,"emulatorId":null,"sdk":"Microsoft Edge 108.0.1462.54","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":false,"hardwareRendering":true,"startPaused":true}}}]

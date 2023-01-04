@@ -1,0 +1,2 @@
+
+enum OtpScreenEnum { forgotOtpScreen, signUpOtpScreen}
